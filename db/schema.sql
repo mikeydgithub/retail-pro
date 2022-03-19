@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS retail_pro_db;
+
+-- CREATE DATABASE
+CREATE DATABASE retail_pro_db;
+
