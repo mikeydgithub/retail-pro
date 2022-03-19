@@ -37,7 +37,8 @@
   ## Tests
   * Start by using npm start to start the server.
   * ![Screenshot 2022-03-19 171131](https://user-images.githubusercontent.com/94988620/159138525-6c1e5332-fc7a-4de4-bc16-e29e34544334.jpg)
-  Run with Insomnia or Postman and test all routes for
+  
+  * Run with Insomnia or Postman and test all routes for
   
   * Categories
   * Products
