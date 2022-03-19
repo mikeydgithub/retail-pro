@@ -1,6 +1,5 @@
 const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
-// const seedAll = require('../../seeds/index')
 
 // The `/api/tags` endpoint
 
@@ -15,7 +14,6 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-  // seedAll();
   // create a new tag
 });
 
