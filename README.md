@@ -1,17 +1,23 @@
 
   ## Table of Contents
   1. [Title](#Title)
-  2. [Installtion](#Installtion)
-  3. [Usage](#Usage)
-  4. [Contribution](#Contribution)
-  5. [Tests](#Test)
-  6. [User Story](#Story)
-  7. [Description](#Description)
-  8. [Walk through Video](#Video)
+  2. [Usage](#Usage)
+  3. [Installtion](#Installtion)
+  5. [Contribution](#Contribution)
+  6. [Tests](#Test)
+  7. [User Story](#Story)
+  8. [Description](#Description)
+  9. [Walk through Video](#Video)
 
   ## Title
 
   Retail-Pro (E-Commerce Website)
+  
+  ## Usage
+
+  * Use Sequalize to interact with a MySQL database and express to build routes.
+
+  * Make GET, POST, PUT, and DELETE requests from the database.
 
   ## Installation
 
@@ -21,12 +27,6 @@
 
   * In the command line type "npm run seed" to seed your
   database.
-
-  ## Usage
-
-  * Use Sequalize to interact with a MySQL database and express to build routes.
-
-  * Make GET, POST, PUT, and DELETE requests from the database.
 
   ## Tests
 
