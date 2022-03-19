@@ -22,15 +22,21 @@
   ## Installation
 
   * Make sure you are in the root folder directory. In the command line type "npm install" to install all node packages.
+  * ![Screenshot 2022-03-19 170227](https://user-images.githubusercontent.com/94988620/159138322-6956eef5-1844-4b5a-8508-09434aacf16f.jpg)
 
-  * In the command line type "mysql -u root -p" to login and use "source db/schema.sql" to establish your database.
+  * In the command line type "mysql -u root -p" to login. Follow up with your password. 
+  * ![Screenshot 2022-03-19 170548](https://user-images.githubusercontent.com/94988620/159138379-7f06c3b5-738c-46a6-b67b-9edc550bc930.jpg)
+  * After your password is entered type source db/schema.sql to source your schema into the database.
+  * ![Screenshot 2022-03-19 170651](https://user-images.githubusercontent.com/94988620/159138444-45fb1512-83ab-4f97-a5fc-7e5463fde6cb.jpg)
 
   * In the command line type "npm run seed" to seed your
   database.
+  ![Screenshot 2022-03-19 170900](https://user-images.githubusercontent.com/94988620/159138454-1181880a-e70d-48eb-8696-402885958d67.jpg)
+
 
   ## Tests
 
-  Run with Insomnia and test all routes for
+  Run with Insomnia or Postman and test all routes for
   
   * Categories
   * Products
