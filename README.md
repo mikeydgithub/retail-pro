@@ -22,12 +22,12 @@
   ## Installation
 
   * Make sure you are in the root folder directory. In the command line type "npm install" to install all node packages.
-  * ![Screenshot 2022-03-19 170227](https://user-images.githubusercontent.com/94988620/159138322-6956eef5-1844-4b5a-8508-09434aacf16f.jpg)
+   ![Screenshot 2022-03-19 170227](https://user-images.githubusercontent.com/94988620/159138322-6956eef5-1844-4b5a-8508-09434aacf16f.jpg)
 
   * In the command line type "mysql -u root -p" to login. Follow up with your password. 
-  * ![Screenshot 2022-03-19 170548](https://user-images.githubusercontent.com/94988620/159138379-7f06c3b5-738c-46a6-b67b-9edc550bc930.jpg)
+   ![Screenshot 2022-03-19 170548](https://user-images.githubusercontent.com/94988620/159138379-7f06c3b5-738c-46a6-b67b-9edc550bc930.jpg)
   * After your password is entered type source db/schema.sql to source your schema into the database.
-  * ![Screenshot 2022-03-19 170651](https://user-images.githubusercontent.com/94988620/159138444-45fb1512-83ab-4f97-a5fc-7e5463fde6cb.jpg)
+   ![Screenshot 2022-03-19 170651](https://user-images.githubusercontent.com/94988620/159138444-45fb1512-83ab-4f97-a5fc-7e5463fde6cb.jpg)
 
   * In the command line type "npm run seed" to seed your
   database.
