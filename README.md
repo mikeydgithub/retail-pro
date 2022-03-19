@@ -15,7 +15,7 @@
 
   ## Installation
 
-  * In the command line type "npm install" to install all node packages.
+  * Make sure you are in the root folder directory. In the command line type "npm install" to install all node packages.
 
   * In the command line type "mysql -u root -p" to login and use "source db/schema.sql" to establish your database.
 
