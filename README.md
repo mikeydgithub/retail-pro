@@ -28,10 +28,6 @@
 
   * Make GET, POST, PUT, and DELETE requests from the database.
 
-  ## Contribution
-
-  Made by Mike Diamond
-
   ## Tests
 
   Run with Insomnia and test all routes for
@@ -53,6 +49,10 @@
   ## GitHub Username
     
   [https:/github.com/mikeydgithub](https:/github.com/mikeydgithub)
+  
+  ## Contribution
+
+  Made by Mike Diamond
   
   ## Email and Contact Information
      
